@@ -48,12 +48,12 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 
-Image before filter
+### Image before filter
 ![image](https://user-images.githubusercontent.com/73849124/189359947-966787ed-e40b-4793-8d11-761c9d7004ff.png)
 
-Image after filter 
+### Image after filter 
 ![FilteredImage](https://user-images.githubusercontent.com/73849124/189359483-4fe5f82b-3290-4103-829b-65da7e445164.png)
-Elastic BeanStalck App URL:
+### Elastic BeanStalck App URL:
 http://image-filter-starter-code2-dev.us-east-1.elasticbeanstalk.com/
 
 
