@@ -46,3 +46,16 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
+Image before filter
+![image](https://user-images.githubusercontent.com/73849124/189359947-966787ed-e40b-4793-8d11-761c9d7004ff.png)
+
+Image after filter 
+![FilteredImage](https://user-images.githubusercontent.com/73849124/189359483-4fe5f82b-3290-4103-829b-65da7e445164.png)
+Elastic BeanStalck App URL:
+http://image-filter-starter-code2-dev.us-east-1.elasticbeanstalk.com/
+
+
+URL with endpoint:
+http://image-filter-starter-code2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/vecteurs-libre/illustration-pollutions-terre_1308-39766.jpg?w=740&t=st=1662369787~exp=1662370387~hmac=869c146d1397e1abd5f6ef692b741d33b8da840a3aa51a3efa1027b42f2df791
